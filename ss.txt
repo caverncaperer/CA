@@ -5401,10 +5401,3 @@ Row 772:
   Issued Organization Unit: "DefaultUser"
   Issued Email Address: "paul.james@anyorg.com"
   Certificate Expiration Date: 19/03/2015 12:11
-
-Row 773:
-  Requester Name: "ANY_CA\IUSR_ANY_CA"
-  Issued Common Name: "JR76680_19032012"
-  Issued Organization Unit: "DefaultUser"
-  Issued Email Address: "julian.rhodes@anyorg.com"
-  Certificate Expiration Date: 19/03/2015 12:18
